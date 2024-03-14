@@ -34,7 +34,7 @@ Before running the tests, ensure you have the following installed:
 ## Running Tests
 
 To run the tests, use the following command:
-   npm test
+  - npm test
 
 This command will execute the Cucumber.js tests using Playwright for browser automation. Ensure that the feature files are located in the `src/test/features/` directory and the step definitions are located in the `src/test/stepDefinitions/` directory.
 
