@@ -24,7 +24,7 @@ Before running the tests, ensure you have the following installed:
 ## Installation
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/swag-labs-test-automation.git
+   git clone https://github.com/ukdutkarsh67/saucedemo-Playwright-Cucumber-BDD-framework.git
 
 2. Install dependencies:
    cd swag-labs-test-automation
